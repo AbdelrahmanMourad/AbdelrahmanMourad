@@ -43,15 +43,15 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
   Hi, I am an Embedded Systems Engineer & Aerospace Engineer from Egypt.
   <br>
   <br>
-  🔬 I'm currently looking for an opportunity as a Junior Embedded Systems Engineer
+  🔬 I'm looking for an opportunity as a Jr. Emb. Sys. Engineer
   <br>
   🎓 I graduated from ITI Intensive Training Program in July 2023
   <br>
   🎓 I graduated from IAET in May 2021
   <br>
-  💻 I love writing code and learning new things about it every day
+  💻 I love writing code and learning new things every day
   <br>
-  📚 I’m currently working on my c++ in problem solving and embedded projects
+  📚 I’m currently working on my C++ PS and embedded projects
   <br>
   💬 Ask me anything about me from <a href="https://github.com/AbdelrahmanMourad/AbdelrahmanMourad/issues" title="Issues">Here</a>
   <br>
