@@ -18,7 +18,12 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <!--- ---------------------------------------------------------------------------------------------------------------------------------  -->
 
 <!-- -->
-<h1 align="center">Hi 👋, I'm Abdelrahman Mourad </h1>
+<!---  Welcome to my profile  -->
+<!-- <h1 align="center">Hi 👋, I'm Abdelrahman Mourad </h1>  -->
+<h1 align="center">
+  Welcome to Abdelrahman Mourad's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
 <!-- -->
 <!---  Moving Text Blue Colored  -->
@@ -40,24 +45,34 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <!--  Data  -->
 <br>
 <p align="left">
-  Hi, I am an Embedded Systems Engineer & Aerospace Engineer from Egypt.
+  Hi, I am an Embedded Systems Developer & Aerospace Engineer from Egypt.
   <br>
   <br>
-  🔬 I'm looking for an opportunity as a Jr. Emb. Sys. Engineer
+  🔬 I'm looking for an opportunity as a Jr. Emb. Sys. Engineer.
   <br>
-  🎓 I graduated from ITI Intensive Training Program in July 2023
+  🎓 I graduated from ITI Intensive Training Program in July 2023.
   <br>
-  🎓 I graduated from IAET in May 2021
+  🎓 I graduated from IAET in May 2021.
   <br>
-  💻 I love writing code and learning new things every day
+  💻 I love writing code and learning new things every day.
   <br>
-  📚 I’m currently working on my C++ PS and embedded projects
+  📚 I'm constantly learning and exploring new technologies.
+  <br>
+  📚 I’m currently working on my C++ PS and embedded projects.
+  <br>
+  💬 Ask me about C, C++, AVR, ARM, Embedded Systems, UAVs.
   <br>
   💬 Ask me anything about me from <a href="https://github.com/AbdelrahmanMourad/AbdelrahmanMourad/issues" title="Issues">Here</a>
   <br>
+  
   📫 How to reach me: <a href="mailto: abdelrahmanmourad.am@gmail.com">abdelrahmanmourad.am@gmail.com</a>
-</p>
+  </p>
 
+<!-- -->
+<!--  Function Repeate .. Sleep,Code,Eat,Repeate -->  
+<img width="220" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<br>
+  
 <!-- -->
 <!--  Connect with me  -->
 <h3 align="left">Connect with me:</h3>
@@ -88,7 +103,8 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <!--  Stats : Abdelrahman Mourad's GitHub Status -->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanMourad&show_icons=true&locale=en&theme=radical" alt="AbdelrahmanMourad" /></p>
 
-<!--- ---------------------------------------------------------------------------------------------------------------------------------  -->
-
 
 <!--- ---------------------------------------------------------------------------------------------------------------------------------  -->
+
+<!--- ---------------------------------------------------------------------------------------------------------------------------------  -->
+
