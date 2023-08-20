@@ -70,9 +70,8 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 <!-- -->
 <!--  Function Repeate .. Sleep,Code,Eat,Repeate -->  
-<img width="220" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-<br>
-  
+<img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 <!-- -->
 <!--  Connect with me  -->
 <h3 align="left">Connect with me:</h3>
