@@ -70,7 +70,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 <!-- -->
 <!--  Function Repeate .. Sleep,Code,Eat,Repeate -->  
-<img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="180" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <!-- -->
 <!--  Connect with me  -->
