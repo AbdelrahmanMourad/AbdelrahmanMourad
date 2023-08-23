@@ -62,7 +62,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
   <br>
   💬 Ask me about C, C++, AVR, ARM, Embedded Systems, UAVs.
   <br>
-  💬 Ask me anything about me from <a href="https://github.com/AbdelrahmanMourad/AbdelrahmanMourad/issues" title="Issues">Here</a>
+  💬 Ask me anything from <a href="https://github.com/AbdelrahmanMourad/AbdelrahmanMourad/issues" title="Issues">Here</a>
   <br>
   
   📫 How to reach me: <a href="mailto: abdelrahmanmourad.am@gmail.com">abdelrahmanmourad.am@gmail.com</a>
