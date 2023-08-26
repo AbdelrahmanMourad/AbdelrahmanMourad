@@ -36,7 +36,6 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&background=4224FF00&width=435&lines=Jr.+Embedded+Systems+Engineer..;ITI+Intensive+Program+Graduate.;Always+Learning+New+Things..;Ex+Aerospace+Engineer.;Feel+Free+To+Contact!" alt="Typing SVG" /></a>
 </h1>  -->
 
-
 <!-- -->
 <!--  Programmer Photo ^__^  -->
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
