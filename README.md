@@ -68,7 +68,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
   </p>
 
 <!-- -->
-<!--  Function Repeate .. Sleep,Code,Eat,Repeate -->  
+<!--  Function Repeate .. Sleep, Code, Eat, Repeate -->  
 <img width="180" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <!-- -->
