@@ -44,14 +44,17 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <!--  Data  -->
 <br>
 <p align="left">
-  Hi, I am an Embedded Systems Developer & Aerospace Engineer from Egypt.
+  Hi, I am an Embedded Software Engineer | Aerospace Engineer from Egypt.
   <br>
   <br>
-  🔬 I'm looking for an opportunity as a Jr. Emb. Sys. Engineer.
+  🔬 Working in SEITech Solutions. 💙💙💙
   <br>
-  🎓 I graduated from ITI Intensive Training Program in July 2023.
+  🎓 Certified Embedded Associate Classic (CEA) from (VECTOR) in Jan 2024 isA.❤️❤️
   <br>
-  🎓 I graduated from IAET in May 2021.
+  🎓 I graduated from (ITI) in July 2023.❤️
+  <br>        --->  {Intensive Training Program - Embedded Systems Track.}.
+  <br>
+  🎓 I graduated from (IAET) in May 2021. 💛
   <br>
   💻 I love writing code and learning new things every day.
   <br>
@@ -59,7 +62,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
   <br>
   📚 I’m currently working on my C++ PS and embedded projects.
   <br>
-  💬 Ask me about C, C++, AVR, ARM, Embedded Systems, UAVs.
+  💬 Ask me about C, C++, AVR, ARM, Embedded Systems, UAVs.✈️✈️✈️
   <br>
   💬 Ask me anything from <a href="https://github.com/AbdelrahmanMourad/AbdelrahmanMourad/issues" title="Issues">Here</a>
   <br>
